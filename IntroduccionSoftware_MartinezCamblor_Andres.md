@@ -3,4 +3,4 @@
 2.Diferencia entre código fuente, código objeto y código ejecutable.
 3.Etapas del desarrollo del software.
 
-![Túnel local](imagen\ImagenEnlazada1.webp)
+! (imagen\ImagenEnlazada1.jpg)
