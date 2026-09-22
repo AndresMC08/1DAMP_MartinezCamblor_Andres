@@ -12,17 +12,17 @@ Un programa informatico es un conjunto de instrucciones, escritas con un lenguaj
 
 ## Etapas del desarrollo del software.
 
-1. Analisis: Se estudian lo que necesita el usuario y lo   que debe hacer el programa
+1. **Analisis**: Se estudian lo que necesita el usuario y lo   que debe hacer el programa
 
-1. Diseño: Se decide como va a ser el software
+1. **Diseño**: Se decide como va a ser el software
 
-1. Programación: Los programadores escriben el codigo fuente
+1. **Programación**: Los programadores escriben el codigo fuente
 
-1. Pruebas: Se comprueba que el programa funciona bien
+1. **Pruebas**: Se comprueba que el programa funciona bien
 
-1. Implementación: El software se instala y abierto para que los usuarios interactuen con el
+1. **Instalación**: El software se instala y abierto para que los usuarios interactuen con el
 
-1. Mantenimiento: Se realizan actualizaciones para solucionar errores que surjan con el tiempo, y mejoras para que el software siga funcionando correctamente
+1. **Mantenimiento**: Se realizan actualizaciones para solucionar errores que surjan con el tiempo, y mejoras para que el software siga funcionando correctamente
 
 ![Etapas Desarrollo de Software](/EtapasDesarrolloSoftware.png)
 
